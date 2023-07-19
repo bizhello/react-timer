@@ -1,4 +1,4 @@
-##git clone
-##npm run dev
+## git clone
+## npm run dev
 
 open localhost:3000/
